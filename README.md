@@ -1,4 +1,4 @@
-# mini-project2
+# E-commerce Store Project
 
 ## Project setup
 ```
